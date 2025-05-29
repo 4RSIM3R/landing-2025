@@ -1,6 +1,6 @@
 name = "landing-2025"
 
-main = "./build/server/index.js"
+main = "./server.ts"
 workers_dev = true
 # https://developers.cloudflare.com/workers/platform/compatibility-dates
 compatibility_flags = [ "nodejs_compat" ]
