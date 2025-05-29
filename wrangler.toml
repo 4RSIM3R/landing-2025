@@ -1,6 +1,6 @@
-name = "trafodiag-remix"
+name = "landing-2025"
 
-main = "./server.ts"
+main = "./build/server/index.js"
 workers_dev = true
 # https://developers.cloudflare.com/workers/platform/compatibility-dates
 compatibility_flags = [ "nodejs_compat" ]
